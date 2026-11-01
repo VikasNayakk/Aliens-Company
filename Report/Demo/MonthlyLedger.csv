@@ -1,0 +1,2 @@
+item_id,member,month,category,item_title,summary,metric,status,evidence_source,verification,include_in_pdf,exclusion_reason
+KPI-01,Demo,2026-10,KPI,Tasks Done,Fictional,demo 18/20,reported,None,self-reported,yes,
